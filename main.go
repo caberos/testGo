@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/caberos/testGo"
+	"github.com/caberos/testGo/src"
 )
 
 func main() {
